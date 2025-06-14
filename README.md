@@ -34,3 +34,6 @@ This system was developed for **International Institute of Information Technolog
 - **Database:** MySQL
 - **Icons & UI:** Lucide React
 
+## Live Link 
+- https://beprojecti2it.netlify.app/
+
